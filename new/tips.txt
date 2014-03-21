@@ -1,0 +1,74 @@
+Ch1.
+- Definition of interaction design (p. 9)
+- Components of ID (p. 9-10)
+- HCI vs. ID (p. 10)
+- Process of ID (p. 15)
+- Usability goals (p. 19-23)
+- User experience goals (p. 23-25)
+- Design principles (p. 25-29)
+
+Ch2. 
+- What is the problem space? (p. 36-37)
+- Box 2.1. p. 38 - assumptions & claims
+- What is a conceptual model? (p. 40-43)
+- What is an interface metaphor? (p. 44-45)
+- What are core interaction types? (p. 46-54)
+- What is a paradigm / theory / model / framework (p. 55-60)
+
+Ch3. 
+- What is cognition (esp. experiential, reflective) (p. 66)
+- What is attention & principles for design (p. 67-70)
+- What is perception & principlies for design (p. 71-72)
+- What is memory & principles for design (p. 72-81)
+- Not that relevant: Memory and search (p. 75), Memory load & passwords (p. 77), computing aids for memory loss (p. 79)
+- Information processing model (p. 89-91)
+- External cognition (p. 92-96)
+
+Ch4. 
+- Face-to-face conversations (rules, procedures) (p. 102-105)
+- Remote conversations - specific example (p. 105-109)
+- Coordination mechanisms (p. 115-116)
+- What is awareness? (p. 116)
+
+Ch5.
+- Difference between eliciting emotional reactions & affective computing (p. 130)
+- What is an expressive interface? How to design one? (p. 131-135)
+- At least two examples of frustrating interface issues (p. 135-139)
+- Schneiderman's guidelines on error message design (p. 138)
+- What is persuasive design? At least one example. (p. 140-144)
+- What is anthropomorphism? Arguments for & against. (p. 145-148)
+- Norman's emotional design model (p. 149)
+
+Ch6.
+- Be able to define. Also be familiar with application example:
+-- Command-based
+-- Multimedia
+-- Virtual reality
+-- Air-based gesture
+-- Haptic
+-- Multimodal
+-- Tangible
+-- Augmented reality
+- Know a research & design issue for:
+-- Command
+-- Windows
+-- Speech
+-- Virtual reality
+-- Augmented reality
+-- Wearable interfaces
+- Realism vs. abstraction? (p. 179)
+- What is a NUI? (p. 215)
+- Which interface is the best? (p. 216-217)
+
+Ch7. 
+- Five key issues of data gathering (p. 223-225)
+- Data recording (p. 226-228)
+- Defintion, advantages & disadvantages of interviews
+- Defintion, advantages & disadvantages of questionnaire
+- Defintion, advantages & disadvantages of observation
+- For above: also look at table on page 261
+- Question design (interviews, questionnaires)
+- Rating scales (semantic diff. / Likert)
+- Poorly designed questionnaire activity (p. 243)
+- Define ethnography (p. 252)
+- How to do indirect observation (p. 258-260)
